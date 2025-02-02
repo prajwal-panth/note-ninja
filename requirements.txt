@@ -1,0 +1,10 @@
+sounddevice
+tk
+fpdf
+transformers
+torch
+pyttsx3
+openai-whisper
+numpy
+librosa
+googletrans==4.0.0-rc1
